@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/limingchen/static/css/main.cc71a743.css",
-    "main.js": "/limingchen/static/js/main.43f7e0d1.js",
-    "static/js/787.c81682ee.chunk.js": "/limingchen/static/js/787.c81682ee.chunk.js",
-    "static/media/grids.svg": "/limingchen/static/media/grids.ce82f345727ab19dd21d.svg",
-    "index.html": "/limingchen/index.html",
-    "main.cc71a743.css.map": "/limingchen/static/css/main.cc71a743.css.map",
-    "main.43f7e0d1.js.map": "/limingchen/static/js/main.43f7e0d1.js.map",
-    "787.c81682ee.chunk.js.map": "/limingchen/static/js/787.c81682ee.chunk.js.map"
+    "main.css": "./https://limingchen.github.io/limingchen/static/css/main.a51f0b61.css",
+    "main.js": "./https://limingchen.github.io/limingchen/static/js/main.9d7963bb.js",
+    "static/js/787.c81682ee.chunk.js": "./https://limingchen.github.io/limingchen/static/js/787.c81682ee.chunk.js",
+    "static/media/grids.svg": "./https://limingchen.github.io/limingchen/static/media/grids.ce82f345727ab19dd21d.svg",
+    "index.html": "./https://limingchen.github.io/limingchen/index.html",
+    "main.a51f0b61.css.map": "./https://limingchen.github.io/limingchen/static/css/main.a51f0b61.css.map",
+    "main.9d7963bb.js.map": "./https://limingchen.github.io/limingchen/static/js/main.9d7963bb.js.map",
+    "787.c81682ee.chunk.js.map": "./https://limingchen.github.io/limingchen/static/js/787.c81682ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc71a743.css",
-    "static/js/main.43f7e0d1.js"
+    "static/css/main.a51f0b61.css",
+    "static/js/main.9d7963bb.js"
   ]
 }
