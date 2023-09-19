@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/limingchen/static/css/main.cc71a743.css",
+    "main.js": "/limingchen/static/js/main.43f7e0d1.js",
+    "static/js/787.c81682ee.chunk.js": "/limingchen/static/js/787.c81682ee.chunk.js",
+    "static/media/grids.svg": "/limingchen/static/media/grids.ce82f345727ab19dd21d.svg",
+    "index.html": "/limingchen/index.html",
+    "main.cc71a743.css.map": "/limingchen/static/css/main.cc71a743.css.map",
+    "main.43f7e0d1.js.map": "/limingchen/static/js/main.43f7e0d1.js.map",
+    "787.c81682ee.chunk.js.map": "/limingchen/static/js/787.c81682ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc71a743.css",
+    "static/js/main.43f7e0d1.js"
+  ]
+}
